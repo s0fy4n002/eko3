@@ -1,5 +1,5 @@
 {
-    "name": "administrator/composer-library",
+    "name": "yantok/composer-library",
     "description": "Library",
     "type": "library",
     "require": {
